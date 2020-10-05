@@ -1,0 +1,28 @@
+/* .Parent_row{
+    height: 500px;
+}
+.child_row{
+    height: 250px;
+} */
+.col-sm-4 {
+    -moz-hyphens:auto;
+    -ms-hyphens:auto;
+    -webkit-hyphens:auto;
+    hyphens:auto;
+    word-wrap:break-word;
+ }
+
+ .col-sm-2 {
+    -moz-hyphens:auto;
+    -ms-hyphens:auto;
+    -webkit-hyphens:auto;
+    hyphens:auto;
+    word-wrap:break-word;
+ }
+ .col-md-6{
+     height: 100%;
+ } 
+ img {
+    width: 200px;
+    height: 200px !important;
+ }
